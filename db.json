@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "fname": "manju",
+      "lname": "s"
+    },
+    {
+      "id": 2,
+      "fname": "albert",
+      "lname": "dawson"
+    },
+    {
+      "fname": "nikie",
+      "lname": "hogg",
+      "id": 3
+    }
+  ]
+}
